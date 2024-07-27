@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+<<<<<<<< Updated upstream:Assets/Scenes/Level3.unity.meta
+guid: c2f3d0a26abef8440b7cedfa8675a821
+DefaultImporter:
+  externalObjects: {}
+========
+guid: a643c3094b9a44647b9615465e1d6b44
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 13400000
+>>>>>>>> Stashed changes:Assets/NoFriction.physicMaterial.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
